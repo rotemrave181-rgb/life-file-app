@@ -4,7 +4,7 @@ A mobile-first web app that collects all of life's "small data" in one place: re
 
 Built with **[Base44](https://base44.com)** (AI-powered no-code platform). Used day to day by me and by close friends and family.
 
-> 🔗 **Live app:** _link coming soon_
+> 🔗 **Live app:** [fine-my-life-chronicles.base44.app](https://fine-my-life-chronicles.base44.app/) (Hebrew, best viewed on mobile)
 
 ---
 
